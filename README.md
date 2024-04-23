@@ -17,6 +17,6 @@ A project dedicated to making GPU partitioning with multiple graphics cards on W
   
   Host Driver Location
   
-  Nvidia - C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_<guid>
+  Nvidia - C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_\<guid\>
   
-  AMD - C:\Windows\System32\DriverStore\FileRepository\u<digit>.inf_amd64_<guid>
+  AMD - C:\Windows\System32\DriverStore\FileRepository\u\<digit\>.inf_amd64_\<guid\>
