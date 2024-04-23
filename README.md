@@ -9,7 +9,7 @@ A project dedicated to making GPU partitioning with multiple graphics cards on W
 - Allow Powershell scripts to run on your system
 
 ## Instructions
-  1. Execute powershell script ./AddGraphicCardtoHyperVVM.ps1
+  1. Execute powershell script ./AddGraphicCardtoHyperVVM.ps1 (Run as Administrator)
   2. Follow the instructions on the script
 
 ## Important Note
